@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Addison's GitHub stats](https://github-readme-stats.vercel.app/api?username=addisonklinke&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Addison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addisonklinke&layout=compact&langs_count=3&exclude_repo=misc&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **addisonklinke/addisonklinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
