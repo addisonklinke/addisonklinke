@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addison-klinke-28768b97/)
+
 [![Addison's GitHub stats](https://github-readme-stats.vercel.app/api?username=addisonklinke&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Addison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addisonklinke&layout=compact&langs_count=3&exclude_repo=misc&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
