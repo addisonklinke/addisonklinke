@@ -18,10 +18,10 @@ class UltimateMLPipeline(nn.Module):
 
     def forward(self, exec_meeting_audio, implementation_url='https://paperswithcode.com'):
         business_needs = self.asr_model(exec_meeting_audio)
-        latest_papers = self.ner_model(BeautifulSoup(implementation_url, 'html.parser'))
-        similarity_score = torch.cdist(latest_papers, business_needs.use_case, p=2)
-        relevant_ml_task = torch.max(similarity_score)
-        top_papers = relevant_ml_task.filter(language__isin=business_needs.tech_stack).order_by(business_needs.kpi)
+        latest_research = self.ner_model(BeautifulSoup(implementation_url, 'html.parser'))
+        similarity_score = torch.cdist(latest_research, business_needs.use_case, p=2)
+        ml_task = torch.max(similarity_score)
+        top_papers = ml_task.filter(language__isin=business_needs.tech_stack).order_by(business_needs.kpi)
         best_model = top_papers[0].implementation.get_model(pretrained=True)
         return best_model(business_needs.input)
 
