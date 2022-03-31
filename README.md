@@ -46,10 +46,10 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 <!-- TODO link each to project homepage to avoid github.camo URLs -->
 
 [![Languages](https://img.shields.io/badge/-Languages-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
-[![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/addisonklinke?tab=repositories&language=python&type=source)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/addisonklinke?tab=repositories&language=python&type=source)
 [![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://stackoverflow.com/questions/53786966/ctypes-view-c-char-p-field-of-returned-struct)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/addisonklinke/rainflow)
-[![Shell](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)](https://github.com/addisonklinke/bash-utilities)
+[![Shell](https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)](https://github.com/addisonklinke/bash-utilities)
 [![jQuery](https://img.shields.io/badge/Javascript%20%28jQuery%29-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://stackoverflow.com/questions/31019259/how-do-i-get-min-and-max-value-of-bootstrap-slider/58664233#58664233)
 [![TeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)](https://tex.stackexchange.com/questions/500551/round-command-argument-before-using)
 
@@ -58,7 +58,7 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=pytorch-lightning&logoColor=white)](https://github.com/PyTorchLightning/pytorch-lightning/issues?q=author%3Aaddisonklinke+)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Scikit-Learn](https://img.shields.io/badge/Sklearn-%23F7931E.svg?flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Ray Tune](https://img.shields.io/badge/-Ray%20Tune-028CF0?style=flat-square&logo=ray&logoColor=white)](https://docs.ray.io/en/latest/tune/index.html)
 [![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)](https://onnx.ai/)
 
@@ -68,28 +68,28 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![Dolt](https://img.shields.io/badge/-Dolt-29e3c1?style=flat-square)](https://github.com/dolthub/dolt/issues?q=author%3Aaddisonklinke+)
 
 [![Data](https://img.shields.io/badge/-Data-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://stackoverflow.com/questions/40118037/how-can-i-detect-gaps-and-consecutive-periods-in-a-time-series-in-pandas/60255374#60255374)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)](https://stackoverflow.com/questions/58077672/python3-relink-issue-while-importing-opencv/59412986#59412986)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://stackoverflow.com/questions/40118037/how-can-i-detect-gaps-and-consecutive-periods-in-a-time-series-in-pandas/60255374#60255374)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)](https://stackoverflow.com/questions/58077672/python3-relink-issue-while-importing-opencv/59412986#59412986)
 
 [![Cloud](https://img.shields.io/badge/-Cloud-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 [![Web](https://img.shields.io/badge/-Web-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://stackoverflow.com/questions/51114395/basic-django-authentication-error/56996026#56996026)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://stackoverflow.com/questions/52366400/place-custom-checkbox-icon-to-right-of-label-bootstrap-4/62763396#62763396)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://stackoverflow.com/questions/51114395/basic-django-authentication-error/56996026#56996026)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://stackoverflow.com/questions/52366400/place-custom-checkbox-icon-to-right-of-label-bootstrap-4/62763396#62763396)
 
 [![OS](https://img.shields.io/badge/-OS-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/addisonklinke/bash-utilities)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com/addisonklinke/bash-utilities)
-[![Docke(r](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docke(r](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 [![DevOps](https://img.shields.io/badge/-DevOps-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/addisonklinke)
-[![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org)
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/addisonklinke)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org)
 
 # :chart_with_upwards_trend: Stats
 
