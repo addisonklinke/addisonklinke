@@ -37,7 +37,7 @@ model = UltimateMLPipeline()
 torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available tomorrow ;)
 ```
 
-# :zap: Tools and Technologies I've Worked With
+# :zap: Tools I've Worked With
 
 ![Languages](https://img.shields.io/badge/-Languages-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -87,7 +87,7 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-# :fire: Other Open Source Favorites
+# :fire: Open Source Favorites
 
 ![Editors](https://img.shields.io/badge/-Editors-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
