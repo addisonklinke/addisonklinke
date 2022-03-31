@@ -86,18 +86,6 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-# :fire: Open Source Favorites
-
-![Editors](https://img.shields.io/badge/-Editors-0D1117?style=flat-square&logo=Plex&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-![Design](https://img.shields.io/badge/-Design-0D1117?style=flat-square&logo=Plex&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-
 # :chart_with_upwards_trend: Stats
 
 [![Addison's GitHub stats](https://github-readme-stats.vercel.app/api?username=addisonklinke&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
