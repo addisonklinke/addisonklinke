@@ -37,8 +37,11 @@ model = UltimateMLPipeline()
 torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available tomorrow ;)
 ```
 
+# ⚡ Technologies
+
 <!-- TODO tech stack tool badges -->
-<!-- TODO organize into sections -->
+
+# :chart_with_upwards_trend: Stats
 
 [![Addison's GitHub stats](https://github-readme-stats.vercel.app/api?username=addisonklinke&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
