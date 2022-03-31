@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Addison
+# Hello there :wave: I'm Addison
 
 <!-- Badge markdown format [![text](img)](link) -->
 
@@ -37,9 +37,7 @@ model = UltimateMLPipeline()
 torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available tomorrow ;)
 ```
 
-# ⚡ Technologies
-
-<!-- TODO tech stack tool badges -->
+# :zap: Technologies
 
 # :chart_with_upwards_trend: Stats
 
