@@ -48,7 +48,7 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
 ![TeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
-[![ML](https://img.shields.io/badge/-ML-0D1117?style=flat-square&logo=Plex&logoColor=white)](https://github.com/addisonklinke?tab=repositories)
+![ML](https://img.shields.io/badge/-ML-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![PyTorch Lightning]()
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -57,19 +57,17 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![Ray Tune]()
 ![ONNX]()
 
-
-[![MLops](https://img.shields.io/badge/-MLops-0D1117?style=flat-square&logo=Plex&logoColor=white)](https://github.com/addisonklinke?tab=repositories)
+![MLops](https://img.shields.io/badge/-MLops-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![MLflow]()
 ![Hydra]()
 ![Dolt]()
 
-
-[![Web Development](https://img.shields.io/badge/-Web%20Development-0D1117?style=flat-square&logo=Plex&logoColor=white)](https://github.com/addisonklinke?tab=repositories)
+![Web](https://img.shields.io/badge/-Web-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-[![OS](https://img.shields.io/badge/-OS-0D1117?style=flat-square&logo=Plex&logoColor=white)](https://github.com/addisonklinke?tab=repositories)
+![OS](https://img.shields.io/badge/-OS-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
