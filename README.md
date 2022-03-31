@@ -57,9 +57,9 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 ![MLops](https://img.shields.io/badge/-MLops-0D1117?style=flat-square&logo=Plex&logoColor=white)
-![MLflow]()
-![Hydra]()
-![Dolt]()
+![MLflow](https://img.shields.io/badge/-MLflow-005689?style=flat-square)
+![Hydra](https://img.shields.io/badge/-Hydra-7ca6be?style=flat-square)
+![Dolt](https://img.shields.io/badge/-Dolt-29e3c1?style=flat-square)
 
 ![Data](https://img.shields.io/badge/-Data-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
