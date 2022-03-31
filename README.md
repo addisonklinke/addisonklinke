@@ -56,14 +56,16 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?flat-square&logo=scikit-learn&logoColor=white)
 ![Ray Tune](https://img.shields.io/badge/-Ray%20Tune-028CF0?style=flat-square&logo=ray&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 
 ![MLops](https://img.shields.io/badge/-MLops-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![MLflow]()
 ![Hydra]()
 ![Dolt]()
+
+![Data](https://img.shields.io/badge/-Data-0D1117?style=flat-square&logo=Plex&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 
 ![Cloud](https://img.shields.io/badge/-Cloud-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
