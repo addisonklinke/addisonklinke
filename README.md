@@ -56,9 +56,9 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?flat-square&logo=scikit-learn&logoColor=white)
 ![Ray Tune]()
 ![ONNX]()
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 
 ![MLops](https://img.shields.io/badge/-MLops-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![MLflow]()
