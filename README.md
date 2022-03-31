@@ -37,7 +37,7 @@ model = UltimateMLPipeline()
 torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available tomorrow ;)
 ```
 
-# :zap: Tools and Technologies
+# :zap: Tools and Technologies I've Worked With
 
 ![Languages](https://img.shields.io/badge/-Languages-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -56,11 +56,18 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?flat-square&logo=scikit-learn&logoColor=white)
 ![Ray Tune]()
 ![ONNX]()
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![MLops](https://img.shields.io/badge/-MLops-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![MLflow]()
 ![Hydra]()
 ![Dolt]()
+
+![Cloud](https://img.shields.io/badge/-Cloud-0D1117?style=flat-square&logo=Plex&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 
 ![Web](https://img.shields.io/badge/-Web-0D1117?style=flat-square&logo=Plex&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
@@ -71,6 +78,24 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+![DevOps](https://img.shields.io/badge/-DevOps-0D1117?style=flat-square&logo=Plex&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+# :fire: Other Open Source Favorites
+
+![Editors](https://img.shields.io/badge/-Editors-0D1117?style=flat-square&logo=Plex&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+![Design](https://img.shields.io/badge/-Design-0D1117?style=flat-square&logo=Plex&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 
 # :chart_with_upwards_trend: Stats
 
