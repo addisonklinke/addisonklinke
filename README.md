@@ -56,10 +56,10 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![ML](https://img.shields.io/badge/-ML-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)](https://github.com/addisonklinke/pytorch-architectures)
 [![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=pytorch-lightning&logoColor=white)](https://github.com/PyTorchLightning/pytorch-lightning/issues?q=author%3Aaddisonklinke+)
+[![Ray Tune](https://img.shields.io/badge/-Ray%20Tune-028CF0?style=flat-square&logo=ray&logoColor=white)](https://discuss.ray.io/u/addisonklinke)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
 [![Scikit-Learn](https://img.shields.io/badge/Sklearn-%23F7931E.svg?flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Ray Tune](https://img.shields.io/badge/-Ray%20Tune-028CF0?style=flat-square&logo=ray&logoColor=white)](https://docs.ray.io/en/latest/tune/index.html)
 [![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)](https://onnx.ai/)
 
 [![MLops](https://img.shields.io/badge/-MLops-0D1117?style=flat-square&logo=Plex&logoColor=white)]()
