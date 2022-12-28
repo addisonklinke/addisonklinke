@@ -72,7 +72,7 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://stackoverflow.com/questions/40118037/how-can-i-detect-gaps-and-consecutive-periods-in-a-time-series-in-pandas/60255374#60255374)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)](https://stackoverflow.com/questions/58077672/python3-relink-issue-while-importing-opencv/59412986#59412986)
-slack
+
 [![Cloud](https://img.shields.io/badge/-Cloud-0D1117?style=flat-square)]()
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
