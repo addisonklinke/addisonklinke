@@ -96,8 +96,8 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 
 [![LeetCode user addisonklinke](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faddisonklinke&logo=leetcode&logoColor=yellow)](https://leetcode.com/addisonklinke/)
 
-[![Addison's GitHub stats](https://github-readme-stats.vercel.app/api?username=addisonklinke&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Addison's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=addisonklinke&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Addison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addisonklinke&layout=compact&langs_count=3&exclude_repo=misc&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Addison's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=addisonklinke&layout=compact&langs_count=3&exclude_repo=misc&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Addison's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7446465&layout=compact&theme=dark)](https://stackoverflow.com/users/7446465/addison-klinke)
