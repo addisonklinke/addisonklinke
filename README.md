@@ -81,6 +81,8 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)](#)
 
 [![Data](https://img.shields.io/badge/-Data-0D1117?style=flat-square)]()
+[![Spark](https://img.shields.io/badge/Spark-%23DD0031.svg?style=flat-square&logo=apache-spark&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-%23DD0031.svg?style=flat-square&logo=apache-kafka&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://stackoverflow.com/questions/40118037/how-can-i-detect-gaps-and-consecutive-periods-in-a-time-series-in-pandas/60255374#60255374)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)](https://stackoverflow.com/questions/58077672/python3-relink-issue-while-importing-opencv/59412986#59412986)
