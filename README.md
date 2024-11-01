@@ -49,7 +49,7 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![Languages](https://img.shields.io/badge/-Languages-0D1117?style=flat-square)]()
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/addisonklinke?tab=repositories&language=python&type=source)
 [![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://stackoverflow.com/questions/53786966/ctypes-view-c-char-p-field-of-returned-struct)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](#)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/addisonklinke/rainflow)
 [![Shell](https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)](https://github.com/addisonklinke/bash-utilities)
 [![jQuery](https://img.shields.io/badge/Javascript%20%28jQuery%29-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://stackoverflow.com/questions/31019259/how-do-i-get-min-and-max-value-of-bootstrap-slider/58664233#58664233)
@@ -61,7 +61,7 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![Ray Tune](https://img.shields.io/badge/-Ray%20Tune-028CF0?style=flat-square&logo=ray&logoColor=white)](https://discuss.ray.io/u/addisonklinke)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
-[![Scikit-Learn](https://img.shields.io/badge/Sklearn-%23F7931E.svg?flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Scikit-Learn](https://img.shields.io/badge/Sklearn-%23F7931E.svg?flat-square&logo=scikit-learn&style=flat-square&logoColor=white)](https://scikit-learn.org/stable/)
 [![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)](https://onnx.ai/)
 
 [![MLOps](https://img.shields.io/badge/-MLOps-0D1117?style=flat-square)]()
@@ -70,17 +70,17 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![Dolt](https://img.shields.io/badge/-Dolt-29e3c1?style=flat-square)](https://github.com/dolthub/dolt/issues?q=author%3Aaddisonklinke+)
 
 [![DevOps](https://img.shields.io/badge/-DevOps-0D1117?style=flat-square)]()
-[![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](#)
+[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 [![Databases](https://img.shields.io/badge/-Databases-0D1117?style=flat-square)]()
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)](#)
 
-[![Data Processing](https://img.shields.io/badge/-Data-0D1117?style=flat-square)]()
+[![Data](https://img.shields.io/badge/-Data-0D1117?style=flat-square)]()
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](https://stackoverflow.com/questions/40118037/how-can-i-detect-gaps-and-consecutive-periods-in-a-time-series-in-pandas/60255374#60255374)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)](https://stackoverflow.com/questions/58077672/python3-relink-issue-while-importing-opencv/59412986#59412986)
@@ -92,13 +92,13 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 [![Web](https://img.shields.io/badge/-Web-0D1117?style=flat-square)]()
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://stackoverflow.com/questions/51114395/basic-django-authentication-error/56996026#56996026)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://stackoverflow.com/questions/52366400/place-custom-checkbox-icon-to-right-of-label-bootstrap-4/62763396#62763396)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=fff)](#)
 
 [![OS/Containers](https://img.shields.io/badge/-OS/Containers-0D1117?style=flat-square)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/addisonklinke/bash-utilities)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com/addisonklinke/bash-utilities)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=flat-square&logoColor=fff)](#)
 
 # :chart_with_upwards_trend: Stats
 
