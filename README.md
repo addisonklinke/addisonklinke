@@ -1,6 +1,8 @@
 # Hello there :wave: I'm Addison
 
 <!-- Badge markdown format [![text](img)](link) -->
+<!-- Link details: https://img.shields.io/badge/-[Name]-[HexColor]?style=flat-square&logo=[SimpleIconsName]&logoColor=white -->
+<!-- See https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 
 Find me around the web
 
