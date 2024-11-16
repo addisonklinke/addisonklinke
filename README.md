@@ -66,6 +66,9 @@ torch.save(model.state_dict(), 'UltimateMLPipeline.ckpt')  # Weights available t
 
 [![MLOps](https://img.shields.io/badge/-MLOps-0D1117?style=flat-square)]()
 [![MLflow](https://img.shields.io/badge/-MLflow-005689?style=flat-square&logo=mlflow)](https://github.com/mlflow/mlflow/issues/5456#issuecomment-1060941210)
+[![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)]()
+[![SageMaker](https://img.shields.io/badge/-SageMaker-4eb69e?style=flat-square)]()
+[![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=flat-square)]()
 [![Hydra](https://img.shields.io/badge/-Hydra-7ca6be?style=flat-square)](https://github.com/facebookresearch/hydra/issues/1283#issuecomment-943773394)
 [![Dolt](https://img.shields.io/badge/-Dolt-29e3c1?style=flat-square)](https://github.com/dolthub/dolt/issues?q=author%3Aaddisonklinke+)
 
